@@ -1,0 +1,20 @@
+Thu Feb 11 11:24:53 GMT 2021 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Feb 11 11:24:53 GMT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-90d6-34b3-00001bf7d3ca 
+on database directory C:\Users\Vicen\OneDrive\Escritorio\Year 3\Distributed Web Applications\Assignment_1\Distributed web applications - Assignment\assignmentDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/Vicen/OneDrive/Escritorio/netbeans%20add-ons/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Vicen\OneDrive\Escritorio\netbeans add-ons\db-derby-10.14.2.0-lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Vicen\OneDrive\Escritorio\Year 3\Distributed Web Applications\Assignment_1\Distributed web applications - Assignment
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 11 13:14:53 GMT 2021: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Feb 11 13:14:53 GMT 2021:
+Shutting down instance a816c00e-0177-90d6-34b3-00001bf7d3ca on database directory C:\Users\Vicen\OneDrive\Escritorio\Year 3\Distributed Web Applications\Assignment_1\Distributed web applications - Assignment\assignmentDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
